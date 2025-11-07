@@ -102,8 +102,6 @@ class _FormFeedbackPageState extends State<FormFeedbackPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Form Feedback Pelanggan'),
-        // --- PERBAIKAN DI SINI ---
-        // Mengganti inversePrimary dengan primary agar lebih kompatibel
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white, // Menambahkan warna teks agar kontras
       ),
