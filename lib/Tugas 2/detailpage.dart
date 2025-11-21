@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // Impor file profile.dart untuk bisa mengenali class Dosen
-import 'package:pemrogramanmobile1/profile.dart';
+import 'package:pemrogramanmobile1/Tugas%202/profile.dart';
 
 // (void main dan MyAppDetail bisa ada di sini atau tidak, tergantung kebutuhan Anda)
 void main() {

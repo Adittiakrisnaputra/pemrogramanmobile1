@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // Impor file halaman kedua (hasil_feedback.dart)
-import 'package:pemrogramanmobile1/hasil_feedback.dart';// --- TITIK AWAL APLIKASI ---
+import 'package:pemrogramanmobile1/Tugas%203/hasil_feedback.dart';// --- TITIK AWAL APLIKASI ---
 // Fungsi main() membuat file ini bisa dijalankan secara langsung.
 void main() {
   runApp(const MyApp());

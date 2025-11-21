@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pemrogramanmobile1/detailpage.dart';
+import 'package:pemrogramanmobile1/Tugas%202/detailpage.dart';
 
 class Dosen {
   final String nama;
